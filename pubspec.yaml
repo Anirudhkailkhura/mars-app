@@ -30,8 +30,14 @@ dependencies:
   cupertino_icons: ^1.0.2
   google_nav_bar: ^5.0.6
   sqflite: ^2.2.4+1
+  google_fonts: ^4.0.3
+  liquid_swipe: ^3.0.0
+  smooth_page_indicator: ^1.0.1
+  firebase_auth: ^4.2.9
+  cloud_firestore: ^4.4.3
+  firebase_auth_web: ^5.2.8
+    
 
-  
 
 dev_dependencies:
   flutter_test:
